@@ -11,7 +11,3 @@ This project focuses on developing a machine learning model to predict breast ca
 ## Technologies Used
 - **Python**
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-
-## Access the Notebook
-
-- [View this notebook in nbviewer](https://nbviewer.org/github/YourUsername/Breast-Cancer-diagnosis-prediction/blob/main/Breast_Cancer_Prediction.ipynb)
