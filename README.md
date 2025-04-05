@@ -11,7 +11,7 @@ This project focuses on developing a machine learning model to predict breast ca
 
 ## Technologies Used
 - **Python**
-- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn , Streamlit
 
 ## 📢 Request for Feedback
 I welcome feedback, suggestions, and reviews for this project.  
