@@ -76,7 +76,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 # %matplotlib inline
 
-!pip install streamlit
+
 
 import pandas as pd
 
